@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>Mis 10 películas favoritas</title>
+  </head>
+  <body>
+    <h1>Mis 10 películas favoritas </h1>
+
+    <ol>
+     <li>La naranja mecánica</li> 	
+         <img src="https://www.mezcotoyz.com/mas_assets/cache/image/1/1/1/2/4370.Jpg" alt ="naranja">
+     <li>Andrei Rublev</li>
+     <img src="https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2018/08/andrei-rublev-trailer.jpg?fit=789%2C460&ssl=1" alt="Andrei">
+     <li>Ivan el Terrible </li>	
+     <img src="https://static.rogerebert.com/uploads/review/primary_image/reviews/great-movie-ivan-the-terrible-parts-i-and-ii/hero_EB20120119REVIEWS08120119982AR.jpg" alt="Ivan">
+     <li>El tiempo de los gitanos</li>
+     <img src="https://cdn.onebauer.media/one/empire-tmdb/films/20123/images/33iyJARo5t5Xb3sKfxLITlmJsJv.jpg?quality=50&width=1800&ratio=16-9&resizeStyle=aspectfill&format=jpg" alt="Tiempo">
+     <li>Cinema Paradiso</li> 
+     <img src="https://images-na.ssl-images-amazon.com/images/I/7171y5FIjTL._SY445_.jpg" alt="cinema">	
+</ol>
+  </body>
+</html>
+
